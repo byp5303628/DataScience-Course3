@@ -1,6 +1,6 @@
 # Course3 Project
 
-## Data set
+## How to run the script
 
 Copy the data set directly into the project directory, with the full name `UCI HAR Dataset`
 
